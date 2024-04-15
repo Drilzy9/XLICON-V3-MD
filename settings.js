@@ -45,16 +45,16 @@ global.ytname = process.env.YT_NAME || "YT: S4 Salman YT" //ur yt chanel name
 //________________________________________________________________________________________________________
 global.socialm = process.env.MEDIA || "GitHub: salmanytofficial" //ur github or insta name
 //________________________________________________________________________________________________________
-global.location = process.env.GL_INFO || "Pakistan, Lahore, Sabzazar" //ur location
+global.location = process.env.GL_INFO || "africa,lagos" //ur location
 //________________________________________________________________________________________________________
 
 //new
 //________________________________________________________________________________________________________
 global.botname = process.env.BOT_NAME || 'isaiah drilzy//ur bot name
 //________________________________________________________________________________________________________
-global.ownernumber = process.env.SUDO || '234805 178 9571' //ur owner number
+global.ownernumber = process.env.SUDO || '2349115945854' //ur owner number
 //_______________________________________________________________________________________________________
-global.ownername = process.env.SUDO_NAME || 'bravo dan' //ur owner name
+global.ownername = process.env.SUDO_NAME || 'isaiah drilzy' //ur owner name
 //________________________________________________________________________________________________________
 global.websitex = process.env.YT_LINK || "https://youtube.com/@s4salmanyt"
 //________________________________________________________________________________________________________
@@ -74,14 +74,14 @@ global.creator = process.env.GL_DEVS || "923184070915@s.whatsapp.net"
 //________________________________________________________________________________________________________
 global.xprefix = process.env.PREFIX || '.'
 //________________________________________________________________________________________________________
-global.premium = process.env.GL_VIP ||[''234805 178 9571"] // Premium User
+global.premium = process.env.GL_VIP ||[''2349115945854"] // Premium User
 //________________________________________________________________________________________________________
 global.hituet = 0
 //________________________________________________________________________________________________________
 
 //bot sett
 //________________________________________________________________________________________________________
-global.typemenu = process.env.MENU_DESIGN || 'v8' // menu type 'v1' => 'v8'
+global.typemenu = process.env.MENU_DESIGN || 'v2' // menu type 'v1' => 'v8'
 //________________________________________________________________________________________________________
 global.typereply = process.env.REPLY_TYPE || 'v2' // reply type 'v1' => 'v3'
 //________________________________________________________________________________________________________
